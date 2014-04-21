@@ -1,0 +1,23 @@
+amazon	Testing:2,Speech Writing:2,Python:2,CSS:2,Software Design:2,Business Intelligence:2,Leadership:2,Storytelling:2,Entrepreneurship:2,Management Consulting:2
+amd	Recruiting:3,Business Development:5,New Business Development:5,Cross-functional Team Leadership:5,Business Strategy:5,Cloud Computing:5,Strategy:8,Go-to-market Strategy:3,SaaS:4,Business Intelligence:3
+apple	Management:2,Building Relationships:2,Web Project Management:2,Culture Change:2,Onboarding:2,Organizational Effectiveness:2,HR Consulting:2,Employer Branding:2,HR Transformation:2,Organizational Design:2
+cisco	Business Development:3,Product Lifecycle Management:2,Program Management:3,Cross-functional Team Leadership:2,Management Consulting:2,Sales Operations:2,Business Process Improvement:2,Process Improvement:2,Business Process:2,Vendor Management:2
+dell	Networking:2,Strategy:4,SaaS:4,Product Strategy:2,Information Technology:2,HP:2,Sales Enablement:2,Financial Modeling:2,SEM:2,Web Marketing:2
+dropbox	People Management:2,Management:2,Leadership:2,Recruiting:2,Organizational Leadership:2,Internal Communications:2,Corporate Identity:2,Organizational Design:2,Human Resources:2,Talent Management:2
+ebay	E-commerce:3,B2B:3,Digital Media:3,SEO:3,Sales:3,Management:3,Digital Marketing:3,Online Advertising:3,Marketing Strategy:3,Mobile Devices:2
+emc	Lean Software Development:2,Business Process Improvement:2,Financial Services:2,Business Planning:2,Change Management:2,Agile Project Management:2,Product Development:2,Strategic Partnerships:2,Management Consulting:2,Telecommunications:2
+facebook	E-commerce:8,Business Development:8,Digital Strategy:7,Competitive Analysis:6,Social Media Marketing:6,Digital Marketing:6,Creative Direction:6,Online Marketing:6,Social Media:7,Marketing Strategy:6
+google	Git:3,Business Development:3,SaaS:4,Distributed Systems:3,Leadership:3,Strategic Partnerships:3,Management:3,Marketing:3,Scalability:3,Python:3
+huawei	Project Management:7,Telecommunications:8,Business Development:9,Mobile Devices:6,Strategy:6,Leadership:7,Team Leadership:5,Management:5,CRM:6,Networking:5
+ibm	Blogging:2,Employee Engagement:2,Event Management:2,Reputation Management:2,Internal Communications:2,Analyst Relations:2,Positioning:2,Corporate Branding:2,Message Development:2,Communication Training:2
+linkedin	Start-ups:8,New Business Development:8,SaaS:7,Strategy:9,Mobile Devices:7,E-commerce:7,Management:9,Social Media:5,Online Marketing:4,Sales:4
+microsoft	New Business Development:6,Entertainment:5,Business Development:5,Social Media:5,Social Media Marketing:5,Digital Strategy:6,Online Advertising:5,Digital Media:6,Marketing:6,Strategy:6
+monster	SEM:5,CRM:7,Marketing Strategy:6,Strategy:7,Online Advertising:6,Management:9,Business Development:6,Recruitment Advertising:3,Applicant Tracking Systems:3,Social Media:6
+nokia	Mobile Devices:9,Mobile Technology:7,Product Management:7,Telecommunications:7,Mobile Applications:7,Start-ups:6,Strategic Partnerships:6,Business Development:6,Social Media:2,Social Networking:2
+nvidia	Cross-functional Team Leadership:3,Entrepreneurship:3,Project Management:3,Product Development:3,Public Relations:2,Six Sigma:2,Manufacturing:2,Online Marketing:2,Facebook:2,Sales Presentations:2
+oracle	Digital Marketing:5,Online Advertising:5,Digital Strategy:4,New Media:4,Mobile Devices:5,Marketing:4,Business Development:4,Digital Media:4,Monetization:3,Advertising:3
+qualcomm	Business Analysis:2,Operating Systems:2,Business Intelligence:2,System Architecture:2,Change Management:2,Team Building:2,Team Leadership:2,Software Development:2,Security:2,SoC:2
+samsung	E-commerce:9,Integration:9,Cross-functional Team Leadership:9,Team Leadership:9,Pre-sales:9,Sales Management:9,SaaS:6,Strategic Partnerships:9,Solution Selling:8,Market Research:8
+twitter	Product Management:6,Online Advertising:6,E-commerce:6,Start-ups:7,Management:7,Presentation Development:2,Software Development:2,Team Building:3,Sales:4,Team Management:2
+vmware	Management:2,Vendor Management:2,International Sales:2,Computer Security:2,Business Strategy:2,Risk Management:2,New Business Development:2,Contract Negotiation:2,Thought Leadership:2,Business Alliances:2
+yahoo	Product Management:6,Management:6,Program Management:3,Cross-functional Team Leadership:3,Enterprise Software:5,Business Planning:3,Process Improvement:3,Vendor Management:3,Sales:3,Virtualization:3

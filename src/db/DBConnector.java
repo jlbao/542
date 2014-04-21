@@ -3,6 +3,9 @@ package db;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
+/*
+ * Responsible for the MySQL database connection
+ */
 public class DBConnector {
 	public static final String DBDRIVER = "org.gjt.mm.mysql.Driver";
 	public static final String DBURL = "jdbc:mysql://localhost:3306/tag";

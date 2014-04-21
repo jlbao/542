@@ -3,6 +3,10 @@ package db;
 import java.util.List;
 
 public class Follower {
+	/*
+	 * Follower contains all tag information and company information
+	 */
+	
 	private String followerID;
 	private String companyName;
 	private List<String> tags;

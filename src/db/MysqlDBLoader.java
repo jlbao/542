@@ -8,7 +8,9 @@ import java.util.List;
 
 public class MysqlDBLoader {
 	
-	
+	/*
+	 * get the follower List from database
+	 */
 	public static List<Follower> getFollowerlist() throws Exception{
 		Connection conn = DBConnector.getInstance().getConn();
 		String sql = "select * from follower";

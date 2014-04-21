@@ -18,17 +18,9 @@ public class DataImportingMain {
 	public static void main(String[] args) throws Exception{
 		MongoClient mongoClient = new MongoClient();
 		DB db = mongoClient.getDB( "mydb" );
-		DBCollection coll = db.getCollection("testCollection");
+		DBCollection coll = db.getCollection("company");
 		
 		List<Follower> followerList = MysqlDBLoader.getFollowerlist();
-		
-		for(Follower follower : followerList){
-			BasicDBObject doc = new BasicDBObject("followerID", follower.getFollowerID())
-				.append("companyName", follower.getCompanyName());
-			coll.insert(doc);
-		}
-		
-		/*
 		
 		for(Follower follower : followerList){
 			BasicDBObject doc = new BasicDBObject("followerID", follower.getFollowerID())
@@ -36,8 +28,5 @@ public class DataImportingMain {
 			.append("tags", follower.getTags());
 			coll.insert(doc);
 		}
-		*/
 	}
-	
-
 }
