@@ -3,6 +3,13 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="lib/mongo-2.10.1.jar"/>
 	<classpathentry kind="lib" path="lib/mysql-connector-java-3.0.17-ga-bin.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-ant-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-client-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-core-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-examples-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-minicluster-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-test-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-tools-1.1.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
